@@ -1,0 +1,897 @@
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix symb: <http://example.org/element/> .
+
+symb:rgyantshogsbanner symb:hasSimulation symb:arrowDorjeKongstunDemo,
+        symb:crownDorjeKongstunDemo,
+        symb:crowncompleteness,
+        symb:crowncontinuity,
+        symb:crowneternallife,
+        symb:crownfunerals,
+        symb:crowngods,
+        symb:crownheavenandearth,
+        symb:crownhonor,
+        symb:crownpre-eminence,
+        symb:crownrank,
+        symb:crownrewardofvirtue,
+        symb:crownroyalty,
+        symb:crownsovereignty,
+        symb:crownspiritualenlightenmentespeciallyajeweledcrown,
+        symb:crownsuccess,
+        symb:crownsunrays,
+        symb:crowntheCumansibyl,
+        symb:crownvictory,
+        symb:earringDorjeKongstunDemo,
+        symb:earringdrowning,
+        symb:earringsunworship,
+        symb:flamingswordDorjeKongstunDemo,
+        symb:flamingswordpenetratinginsight,
+        symb:goldDorjeKongstunDemo,
+        symb:golddivineintelligence,
+        symb:golddivinity,
+        symb:goldfire,
+        symb:goldheaven,
+        symb:goldidolatry,
+        symb:goldprosperity,
+        symb:goldpurelight,
+        symb:goldradiance,
+        symb:goldsolarlight,
+        symb:goldsuperiorityespeciallyonaspiritualplane,
+        symb:goldthehighestvalue,
+        symb:goldtheid,
+        symb:goldthesun,
+        symb:goldvirtue,
+        symb:goldworldlywealth,
+        symb:goldworth,
+        symb:greymuleDorjeKongstunDemo,
+        symb:lotusAmitabha,
+        symb:lotusBuddha,
+        symb:lotusDorjeKongstunDemo,
+        symb:lotusharmony,
+        symb:lotusnirvana,
+        symb:lotusoneoftheEightEmblemsofGoodAugury,
+        symb:lotuspeace,
+        symb:lotusprimordialwaters,
+        symb:lotusspiritualfloweringandunfolding,
+        symb:lotusthepotentialitiesofthemanifestworldandman,
+        symb:lotusunion,
+        symb:lotuswisdom,
+        symb:mirrorDorjeKongstunDemo,
+        symb:mirrorhappymarriage,
+        symb:mirrorharmony,
+        symb:mirroroneoftheEightPreciousThingsofChineseBuddhism,
+        symb:mirrorpurity,
+        symb:mirrorsamsara,
+        symb:mirrorsincerity,
+        symb:mirrortheenlightenedmind,
+        symb:mirrorthequeen,
+        symb:mirrorthesoulinastateofpurity,
+        symb:necklaceDorjeKongstunDemo,
+        symb:peonyDorjeKongstunDemo,
+        symb:peonySummer,
+        symb:peonyaffection,
+        symb:peonyfeminineloveliness,
+        symb:peonyglory,
+        symb:peonyhonor,
+        symb:peonylight,
+        symb:peonylove,
+        symb:peonytheimperialflower,
+        symb:peonythepeacock,
+        symb:peonywealth,
+        symb:phoenixDorjeKongstunDemo,
+        symb:phoenixaugurofastorm,
+        symb:phoenixchastity,
+        symb:phoenixconstancy,
+        symb:phoenixdeathandrebirthbyfire,
+        symb:phoenixeternalyouth,
+        symb:phoenixeternity,
+        symb:phoenixfaith,
+        symb:phoenixgentleness,
+        symb:phoeniximmortality,
+        symb:phoenixresurrection,
+        symb:phoenixroyalsuccession,
+        symb:phoenixtemperance,
+        symb:phoenixthecycleofdestructionandrecreation,
+        symb:phoenixthepowertoovercomedeathchangeortragedy,
+        symb:thunderboltAksmobhya,
+        symb:thunderboltDorjeKongstunDemo,
+        symb:thunderboltenlightenment,
+        symb:thunderbolttranscendentaltruth,
+        symb:veilDorjeKongstunDemo,
+        symb:veiladeity,
+        symb:veilapre-enlightenedstate,
+        symb:veilatonement,
+        symb:veilchastity,
+        symb:veilconcealmentofcertainaspectsoftruthorofthedeity,
+        symb:veildarkness,
+        symb:veildeath,
+        symb:veilfertilityhiddenunderground,
+        symb:veilhiddenoresotericknowledge,
+        symb:veilhidingtheself,
+        symb:veilignorance,
+        symb:veilinscrutability,
+        symb:veilinvisibility,
+        symb:veilmodesty,
+        symb:veilmystery,
+        symb:veilsecrecy,
+        symb:veilseparation,
+        symb:veiltheworld,
+        symb:veiltruth,
+        symb:veilvirginity,
+        symb:whitehorseDorjeKongstunDemo,
+        symb:whitehorseasolaranimal,
+        symb:whitehorsecelestialknowledge,
+        symb:whitehorsedawn,
+        symb:whitehorseimagination,
+        symb:whitehorseinnocence,
+        symb:whitehorseintellect,
+        symb:whitehorsemanhood,
+        symb:whitehorsereason,
+        symb:whitehorsespirituality,
+        symb:whitehorsetheDivineWord,
+        symb:whitehorsetheherossteed,
+        symb:whitehorsethepureandperfecthighermind,
+        symb:whiterobeDorjeKongstunDemo,
+        symb:whiterobechastity,
+        symb:whiterobeinnocence,
+        symb:whiterobepurity,
+        symb:whiterobethespiritovertheflesh,
+        symb:whiterobevirtue ;
+    symb:haselement symb:Dorje_Kongtsun_Demo,
+        symb:arrow,
+        symb:crown,
+        symb:gold,
+        symb:goldenearring,
+        symb:horse,
+        symb:lotus,
+        symb:mirror,
+        symb:mule,
+        symb:necklace,
+        symb:peony,
+        symb:phoenix,
+        symb:robe,
+        symb:sword,
+        symb:thunderbolt,
+        symb:veil ;
+    owl:sameAs <https://wellcomecollection.org/works/dhewzen3> .
+
+symb:arrowDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:arrow ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:crownDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:crowncompleteness a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:completeness ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crowncontinuity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:continuity ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crowneternallife a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:eternallife ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownfunerals a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:funerals ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:associatedWith .
+
+symb:crowngods a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:gods ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:crownheavenandearth a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:heavenandearth ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:unionOf .
+
+symb:crownhonor a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:honor ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownpre-eminence a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:pre-eminence ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownrank a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:rank ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownrewardofvirtue a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:rewardofvirtue ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownroyalty a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:royalty ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:crownsovereignty a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:sovereignty ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownspiritualenlightenmentespeciallyajeweledcrown a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:spiritualenlightenmentespeciallyajeweledcrown ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownsuccess a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:success ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crownsunrays a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:sunrays ;
+    symb:hasSimulacrum symb:crown .
+
+symb:crowntheCumansibyl a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:theCumansibyl ;
+    symb:hasSimulacrum symb:crown ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:crownvictory a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:victory ;
+    symb:hasSimulacrum symb:crown .
+
+symb:earringDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:earring ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:earringdrowning a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:drowning ;
+    symb:hasSimulacrum symb:earring ;
+    symb:hasSymbolicRelationship symb:protectionFrom .
+
+symb:earringsunworship a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:sunworship ;
+    symb:hasSimulacrum symb:earring .
+
+symb:flamingswordDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:flamingsword ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:flamingswordpenetratinginsight a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:penetratinginsight ;
+    symb:hasSimulacrum symb:flamingsword .
+
+symb:goldDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:gold ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:golddivineintelligence a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:divineintelligence ;
+    symb:hasSimulacrum symb:gold .
+
+symb:golddivinity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:divinity ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldfire a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:fire ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldheaven a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:heaven ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldidolatry a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:idolatry ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldprosperity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:prosperity ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldpurelight a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:purelight ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldradiance a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:radiance ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldsolarlight a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:solarlight ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldsuperiorityespeciallyonaspiritualplane a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:superiorityespeciallyonaspiritualplane ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldthehighestvalue a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thehighestvalue ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldtheid a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:theid ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldthesun a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thesun ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldvirtue a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:virtue ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldworldlywealth a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:worldlywealth ;
+    symb:hasSimulacrum symb:gold .
+
+symb:goldworth a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:worth ;
+    symb:hasSimulacrum symb:gold .
+
+symb:greymuleDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:greymule ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:horse symb:hasVariation symb:whitehorse .
+
+symb:lotusAmitabha a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:Amitabha ;
+    symb:hasSimulacrum symb:lotus ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:lotusBuddha a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:Buddha ;
+    symb:hasSimulacrum symb:lotus ;
+    symb:hasSymbolicRelationship symb:sacredTo .
+
+symb:lotusDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:lotus ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:lotusharmony a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:harmony ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusnirvana a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:nirvana ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusoneoftheEightEmblemsofGoodAugury a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:oneoftheEightEmblemsofGoodAugury ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotuspeace a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:peace ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusprimordialwaters a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:primordialwaters ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusspiritualfloweringandunfolding a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:spiritualfloweringandunfolding ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusthepotentialitiesofthemanifestworldandman a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:thepotentialitiesofthemanifestworldandman ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotusunion a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:union ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:lotuswisdom a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:wisdom ;
+    symb:hasSimulacrum symb:lotus .
+
+symb:mirrorDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:mirror ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:mirrorhappymarriage a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:happymarriage ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrorharmony a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:harmony ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirroroneoftheEightPreciousThingsofChineseBuddhism a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:oneoftheEightPreciousThingsofChineseBuddhism ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrorpurity a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:purity ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrorsamsara a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:samsara ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrorsincerity a symb:Simulation ;
+    symb:hasContext symb:Buddhist,
+        symb:Chinese ;
+    symb:hasRealityCounterpart symb:sincerity ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrortheenlightenedmind a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:theenlightenedmind ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mirrorthequeen a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:thequeen ;
+    symb:hasSimulacrum symb:mirror ;
+    symb:hasSymbolicRelationship symb:emblemOf .
+
+symb:mirrorthesoulinastateofpurity a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:thesoulinastateofpurity ;
+    symb:hasSimulacrum symb:mirror .
+
+symb:mule symb:hasVariation symb:greymule .
+
+symb:necklaceDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:necklace ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:peonyDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:peony ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:peonySummer a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:Summer ;
+    symb:hasSimulacrum symb:peony ;
+    symb:hasSymbolicRelationship symb:emblemOf .
+
+symb:peonyaffection a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:affection ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonyfeminineloveliness a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:feminineloveliness ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonyglory a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:glory ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonyhonor a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:honor ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonylight a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:light ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonylove a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:love ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonytheimperialflower a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:theimperialflower ;
+    symb:hasSimulacrum symb:peony .
+
+symb:peonythepeacock a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:thepeacock ;
+    symb:hasSimulacrum symb:peony ;
+    symb:hasSymbolicRelationship symb:associatedWith .
+
+symb:peonywealth a symb:Simulation ;
+    symb:hasContext symb:Chinese ;
+    symb:hasRealityCounterpart symb:wealth ;
+    symb:hasSimulacrum symb:peony .
+
+symb:phoenixDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:phoenix ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:phoenixaugurofastorm a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:augurofastorm ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixchastity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:chastity ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixconstancy a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:constancy ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixdeathandrebirthbyfire a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:deathandrebirthbyfire ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixeternalyouth a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:eternalyouth ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixeternity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:eternity ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixfaith a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:faith ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixgentleness a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:gentleness ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoeniximmortality a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:immortality ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixresurrection a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:resurrection ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixroyalsuccession a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:royalsuccession ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixtemperance a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:temperance ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixthecycleofdestructionandrecreation a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thecycleofdestructionandrecreation ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:phoenixthepowertoovercomedeathchangeortragedy a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thepowertoovercomedeathchangeortragedy ;
+    symb:hasSimulacrum symb:phoenix .
+
+symb:thunderboltAksmobhya a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:Aksmobhya ;
+    symb:hasSimulacrum symb:thunderbolt ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:thunderboltDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:thunderbolt ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:thunderboltenlightenment a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:enlightenment ;
+    symb:hasSimulacrum symb:thunderbolt .
+
+symb:thunderbolttranscendentaltruth a symb:Simulation ;
+    symb:hasContext symb:Buddhist ;
+    symb:hasRealityCounterpart symb:transcendentaltruth ;
+    symb:hasSimulacrum symb:thunderbolt .
+
+symb:veilDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:veil ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:veiladeity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:adeity ;
+    symb:hasSimulacrum symb:veil ;
+    symb:hasSymbolicRelationship symb:protectionFrom .
+
+symb:veilapre-enlightenedstate a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:apre-enlightenedstate ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilatonement a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:atonement ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilchastity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:chastity ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilconcealmentofcertainaspectsoftruthorofthedeity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:concealmentofcertainaspectsoftruthorofthedeity ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veildarkness a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:darkness ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veildeath a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:death ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilfertilityhiddenunderground a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:fertilityhiddenunderground ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilhiddenoresotericknowledge a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:hiddenoresotericknowledge ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilhidingtheself a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:hidingtheself ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilignorance a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:ignorance ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilinscrutability a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:inscrutability ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilinvisibility a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:invisibility ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilmodesty a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:modesty ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilmystery a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:mystery ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilsecrecy a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:secrecy ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilseparation a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:separation ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veiltheworld a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:theworld ;
+    symb:hasSimulacrum symb:veil ;
+    symb:hasSymbolicRelationship symb:renunciationOf .
+
+symb:veiltruth a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:truth ;
+    symb:hasSimulacrum symb:veil .
+
+symb:veilvirginity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:virginity ;
+    symb:hasSimulacrum symb:veil .
+
+symb:whitehorseDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:whitehorse ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:whitehorseasolaranimal a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:asolaranimal ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsecelestialknowledge a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:celestialknowledge ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsedawn a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:dawn ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorseimagination a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:imagination ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorseinnocence a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:innocence ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorseintellect a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:intellect ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsemanhood a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:manhood ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsereason a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:reason ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsespirituality a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:spirituality ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsetheDivineWord a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:theDivineWord ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsetheherossteed a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:theherossteed ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whitehorsethepureandperfecthighermind a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thepureandperfecthighermind ;
+    symb:hasSimulacrum symb:whitehorse .
+
+symb:whiterobeDorjeKongstunDemo a symb:Simulation ;
+    symb:hasContext symb:Tibetan ;
+    symb:hasRealityCounterpart symb:DorjeKongStunDemo ;
+    symb:hasSimulacrum symb:whiterobe ;
+    symb:hasSymbolicRelationship symb:attributeOf .
+
+symb:whiterobechastity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:chastity ;
+    symb:hasSimulacrum symb:whiterobe .
+
+symb:whiterobeinnocence a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:innocence ;
+    symb:hasSimulacrum symb:whiterobe .
+
+symb:whiterobepurity a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:purity ;
+    symb:hasSimulacrum symb:whiterobe .
+
+symb:whiterobethespiritovertheflesh a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:thespiritovertheflesh ;
+    symb:hasSimulacrum symb:whiterobe ;
+    symb:hasSymbolicRelationship symb:triumphOf .
+
+symb:whiterobevirtue a symb:Simulation ;
+    symb:hasContext symb:GeneralOrUnknownSymbolicMeaning ;
+    symb:hasRealityCounterpart symb:virtue ;
+    symb:hasSimulacrum symb:whiterobe .
+
+symb:arrow a symb:Simulacrum .
+
+symb:flamingsword a symb:Simulacrum .
+
+symb:greymule a symb:Simulacrum .
+
+symb:necklace a symb:Simulacrum .
+
+symb:earring a symb:Simulacrum ;
+    symb:hasVariation symb:goldenearring .
+
+symb:thunderbolt a symb:Simulacrum .
+
+symb:whiterobe a symb:Simulacrum .
+
+symb:mirror a symb:Simulacrum .
+
+symb:peony a symb:Simulacrum .
+
+symb:lotus a symb:Simulacrum .
+
+symb:whitehorse a symb:Simulacrum .
+
+symb:phoenix a symb:Simulacrum .
+
+symb:gold a symb:Simulacrum .
+
+symb:crown a symb:Simulacrum .
+
+symb:veil a symb:Simulacrum .
+
